@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React,HTML,CSS,JS and DSA**
 
-- 📫 How to reach me **rakeshahire5424@gmail.com**
+- 📫 How to reach me **rocky5509ahire@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
