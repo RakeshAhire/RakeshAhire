@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakeshAhire&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshahire" /> </p>
-
+<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="300" width="500" />
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **React,HTML,CSS,JS and DSA**
