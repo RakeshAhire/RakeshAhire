@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rakesh Ahire</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">Full Stack Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RakeshAhire&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshahire" /> </p>
-<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="aman-sharma-697454234" height="300" width="500" />
-- 🌱 I’m currently learning **MERN Stack**
+<img align="right" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="rakesh-ahire" height="300" width="500" />
+- 🌱 **MERN Stack Developer**
 
 - 💬 Ask me about **React,HTML,CSS,JS and DSA**
 
-- 📫 How to reach me **rocky5509ahire@gmail.com**
+- 📫 How to reach me **rakeshahire5424@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
